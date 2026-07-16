@@ -1,0 +1,6 @@
+{
+  "name": "Image Resizer",
+  "description": "A high-quality image resizer that maintains aspect ratios and supports multiple dimensions including custom and preset sizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
